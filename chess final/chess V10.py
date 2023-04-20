@@ -8,7 +8,7 @@ pygame.init()
 # set initial window size
 window_size = (400, 400)
 
-# create window
+# create windowddd
 screen = pygame.display.set_mode(window_size, pygame.RESIZABLE)
 
 # set the title of the window
